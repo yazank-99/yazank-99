@@ -6,7 +6,7 @@
     <a href="mailto:yazankh.ghedan@gmail.com">
       <img src="https://img.shields.io/badge/Email-yazankh.ghedan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="[https://www.linkedin.com/in/yazan-khaled-a4856a213/](https://www.linkedin.com/in/yazan-khaled-451522266/)">
+    <a href="https://www.linkedin.com/in/yazan-khaled-451522266/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
