@@ -79,12 +79,3 @@
 * [cite_start]Built scalable web applications using **ASP.NET MVC** and **Onion Architecture**[cite: 38].
 * [cite_start]Optimized database performance using **SQL Stored Procedures** and managed data via **LINQ**[cite: 37, 42].
 * [cite_start]Developed responsive UIs using **jQuery, AJAX, and Bootstrap**[cite: 41].
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Yazan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
