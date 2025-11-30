@@ -71,11 +71,11 @@
 ### 💼 Professional Experience
 
 **QA & Automation Engineer**
-* [cite_start]Developed automated test scripts using **Selenium WebDriver** and **C#** for projects like *Demo Web Shop* and *Swag Labs*[cite: 25, 27].
-* [cite_start]Executed API testing using **Postman** to validate payment endpoints and business logic for *Fawateer* project[cite: 29].
+* [cite_start]Developed automated test scripts using **Selenium WebDriver** and **C#** for projects like *Demo Web Shop* and *Swag Labs*
+* [cite_start]Executed API testing using **Postman** to validate payment endpoints and business logic for *Fawateer* project
 * [cite_start]Performed manual testing (Test Case Design, Bug Reporting) within STLC & SDLC frameworks.
 
 **Full Stack Developer (.NET)**
-* [cite_start]Built scalable web applications using **ASP.NET MVC** and **Onion Architecture**[cite: 38].
-* [cite_start]Optimized database performance using **SQL Stored Procedures** and managed data via **LINQ**[cite: 37, 42].
-* [cite_start]Developed responsive UIs using **jQuery, AJAX, and Bootstrap**[cite: 41].
+* [cite_start]Built scalable web applications using **ASP.NET MVC** and **Onion Architecture**
+* [cite_start]Optimized database performance using **SQL Stored Procedures** and managed data via **LINQ**
+* [cite_start]Developed responsive UIs using **jQuery, AJAX, and Bootstrap**
